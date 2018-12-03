@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Demo: 
+> https://this-app-detects-faces.herokuapp.com/
+
+<img width="1352" alt="screen shot 2018-12-02 at 10 06 09 pm" src="https://user-images.githubusercontent.com/41349472/49350817-80156c80-f67e-11e8-994e-19e458903882.png">
+
 ## Available Scripts
 
 In the project directory, you can run:
